@@ -1,0 +1,12 @@
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netstandard2.0\Dapper.Application.deps.json
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netstandard2.0\Dapper.Application.dll
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netstandard2.0\Dapper.Application.pdb
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netstandard2.0\Dapper.Core.dll
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netstandard2.0\Dapper.Core.pdb
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netstandard2.0\Dapper.Application.csprojAssemblyReference.cache
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netstandard2.0\Dapper.Application.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netstandard2.0\Dapper.Application.AssemblyInfo.cs
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netstandard2.0\Dapper.Application.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netstandard2.0\Dapper.Application.csproj.CopyComplete
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netstandard2.0\Dapper.Application.dll
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netstandard2.0\Dapper.Application.pdb

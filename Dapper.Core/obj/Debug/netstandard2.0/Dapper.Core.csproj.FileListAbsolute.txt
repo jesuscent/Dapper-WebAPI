@@ -1,0 +1,9 @@
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Core\bin\Debug\netstandard2.0\Dapper.Core.deps.json
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Core\bin\Debug\netstandard2.0\Dapper.Core.dll
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Core\bin\Debug\netstandard2.0\Dapper.Core.pdb
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Core\obj\Debug\netstandard2.0\Dapper.Core.csprojAssemblyReference.cache
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Core\obj\Debug\netstandard2.0\Dapper.Core.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Core\obj\Debug\netstandard2.0\Dapper.Core.AssemblyInfo.cs
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Core\obj\Debug\netstandard2.0\Dapper.Core.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Core\obj\Debug\netstandard2.0\Dapper.Core.dll
+C:\Users\jesus\source\repos\Dapper.WebApi\Dapper.Core\obj\Debug\netstandard2.0\Dapper.Core.pdb
